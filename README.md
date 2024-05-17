@@ -1,2 +1,2 @@
-# Gestione-di-una-Compagnia-di-Software
-Progettare un sistema per la gestione di una compagnia di sviluppo software, con informazioni su progetti, sviluppatori, clienti e versioni del software. Implementare funzionalità di tracciamento dei bug.
+# A database of a software development company
+Design a database system to manage a software development company, including informations about projects, developers, customers and software versions. Implement a bug tracking system.
